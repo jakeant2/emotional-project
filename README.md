@@ -10,6 +10,8 @@ Required materials:
   
   Monitor
   
+
+
 Required Python Libraries:
   
   Requests
