@@ -7,6 +7,7 @@ Required materials:
   Raspberry Pi 4,
   USB Webcam,
   Monitor
+
 Required Python Libraries:
   
   Requests,
