@@ -4,21 +4,13 @@ This script is to be used along with the motion project library on a raspberry p
 
 Required materials:
   
-  Raspberry Pi 4
-  
-  USB Webcam
-  
+  Raspberry Pi 4,
+  USB Webcam,
   Monitor
-  
-
-
 Required Python Libraries:
   
-  Requests
-  
-  json
-  
-  Tkinter
-  
+  Requests,
+  json,  
+  Tkinter,  
   pygame camera
 
